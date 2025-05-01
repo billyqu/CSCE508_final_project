@@ -7,7 +7,7 @@ This repository contains the code, models, and dataset instructions for our CSCE
 ## 📁 Dataset & Model Downloads
 
 - 📥 **Dataset Download:** [https://drive.google.com/drive/folders/1vMu-ZUzGJgz_3B8YSoYZetXCyyKMTzry?usp=sharing]
-- 📥 **Trained Model Download:** [https://drive.google.com/drive/folders/1WP19mnfr8XTaTi8LRAIUhIqLvR3p9qoF?usp=sharing]
+- 📥 **Trained Model Download:** [https://drive.google.com/file/d/1VhGYnDe9UlWmjOD7vWNmyXHn6I-NJBDC/view?usp=sharing]
 
 > **Note:** After downloading the dataset, update the dataset paths in the following files:
 - `train_multi_channel.py`: Line 193–195
